@@ -1,0 +1,63 @@
+{
+  "title": "World",
+  "test": [
+    {
+      "value": 1,
+      "type": "Choose",
+      "question": "Кто президент Америки?",
+      "answers": [
+        {
+          "text": "Трамп",
+          "how": false
+        },
+        {
+          "text": "Байден",
+          "how": true
+        },
+        {
+          "text": "Лукашенко",
+          "how": false
+        },
+        {
+          "text": "Обама",
+          "how": false
+        }
+      ]
+    },
+    {
+      "value": 1,
+      "type": "Choose",
+      "question": "Кто президент России?",
+      "answers": [
+        {
+          "text": "Трамп",
+          "how": false
+        },
+        {
+          "text": "Джигурда",
+          "how": false
+        },
+        {
+          "text": "Путин",
+          "how": true
+        },
+        {
+          "text": "Собчак",
+          "how": false
+        }
+      ]
+    },
+    {
+      "value": 2,
+      "type": "Text",
+      "question": "Столица Гондураса?",
+      "answer": "Тегусигальпа"
+    },
+    {
+      "value": 2,
+      "type": "Text",
+      "question": "Кто играл Ералаша в ”Слове Пацана” (фамилия)?",
+      "answer": "Кологривый"
+    }
+  ]
+}
